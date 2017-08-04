@@ -75,7 +75,7 @@ if (isset($_GET['tag']))
                     </div>
                     
                     <div>
-                    	<a href="every.php?tag=contact" class="customer" title="Shift+Ctrl+C">&nbsp;Contact </a>
+                    	<a href="every.php?tag=view_contact" class="customer" title="Shift+Ctrl+C">&nbsp;Contact </a>
                     </div>
                     
                     
